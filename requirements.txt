@@ -1,0 +1,14 @@
+# PDF Processing
+PyPDF2>=3.0.0
+
+# Text Processing
+nltk>=3.8.1
+
+# Type Hints
+typing-extensions>=4.5.0 
+
+# API Integration
+openai>=1.0.0
+
+# Progress Bars
+tqdm>=4.65.0 

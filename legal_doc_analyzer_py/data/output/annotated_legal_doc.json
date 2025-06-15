@@ -1,0 +1,783 @@
+{
+  "document_structure": [
+    {
+      "section": "PRINCIPAL TEST :",
+      "clauses": []
+    },
+    {
+      "section": "SECONDARY FACTORS\n:",
+      "clauses": [
+        {
+          "clause_id": "clause-e4cff8f5",
+          "page_number": 6,
+          "text": "It is recognized that it is not necessary that all secondary factors support creation of an independent \nCONSULTANT relationship, but rather that overall there are significant secondary factors which indicate \nthat CONSULTANT is an independent CONSULTANT.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky for the Consultant because it is vague and open to interpretation. The language used is not clear in defining what constitutes \"significant secondary factors\" that indicate the Consultant is independent. This lack of specificity could lead to disputes or disagreements between the parties in the future. It is important for the Consultant to have a clear understanding of what criteria need to be met in order to establish their status as an independent contractor to avoid potential legal issues."
+        },
+        {
+          "clause_id": "clause-49cb70f3",
+          "page_number": 6,
+          "text": "By their signatures to this Agreement, each of the un dersigned certifies that it is his or her considered \njudgment that the CONSULTANT engaged under this Ag reement is in fact an independent CONSULTANT.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky because it places the burden of determining the consultant's status as an independent contractor solely on the individuals signing the agreement. If the consultant is later found to be misclassified as an independent contractor when they should have been classified as an employee, the signatories could be held personally liable for any resulting legal or financial consequences. It is important to have clear criteria and documentation to support the consultant's classification as an independent contractor to mitigate this risk."
+        },
+        {
+          "clause_id": "clause-108117fc",
+          "page_number": 6,
+          "text": "12.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-91a19d73",
+          "page_number": 6,
+          "text": "RETENTION AND AUDIT OF RECORDS\n.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-71347448",
+          "page_number": 6,
+          "text": "For the purpose of determining compliance with Public \nContract Code 10115, et seq.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause is low risk because it simply references a specific section of the Public Contract Code for the purpose of determining compliance. It does not impose any additional obligations or liabilities on any party involved in the contract. The clause is clear and specific in its purpose, making it unlikely to cause confusion or disputes."
+        },
+        {
+          "clause_id": "clause-2fd3b0b4",
+          "page_number": 6,
+          "text": "and Title 21, California C ode of Regulations, Chapter 21, Section 2500 et seq., \nif applicable and other matters connected with the perf ormance of the contract pursuant to Government Code \n8546.7: CONSULTANT, subconsultants, and the CO MMISSION shall maintain all books, documents, \npapers, accounting records, and other evidence pertaining to the performance of the contract, including but",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky for the Consultant because it imposes a requirement for them, subconsultants, and the Commission to maintain all books, documents, papers, accounting records, and other evidence related to the contract performance. This can be risky for the Consultant as it may increase their administrative burden and potential liability if they fail to comply with these record-keeping requirements. Additionally, failure to maintain proper records could lead to disputes or legal issues in the future. It is important for the Consultant to ensure they have the necessary systems in place to comply with this clause to mitigate the risk."
+        },
+        {
+          "clause_id": "clause-28fe0434",
+          "page_number": 7,
+          "text": "Page 7 not limited to, the costs of administering the Agreement.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause is low risk and neutral because it is a standard provision commonly found in contracts. It simply states that the costs of administering the agreement are not limited to any specific amount. This clause is not likely to cause any significant legal issues or pose a threat to either party involved in the contract."
+        },
+        {
+          "clause_id": "clause-af593b49",
+          "page_number": 7,
+          "text": "All parties shall make such materials available at \ntheir respective offices at all reasonable times during th e Agreement  period and for five (5) years from the \ndate of final payment under this Agreement or unt il a final audit report is accepted by COMMISSION, \nwhichever occurs first.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause poses a medium level of risk for the Consultant. The requirement to make materials available at their respective offices for a period of five years after the final payment or until a final audit report is accepted by the COMMISSION could potentially burden the Consultant with the responsibility of retaining and providing access to these materials for an extended period of time. This could lead to increased administrative costs and potential liability if the materials are not properly maintained or accessible. Additionally, the clause does not specify the scope or nature of the materials to be made available, leaving room for interpretation and potential disputes. It is advisable for the Consultant to negotiate for a more specific and reasonable timeframe for retaining and providing access to materials to mitigate these risks."
+        },
+        {
+          "clause_id": "clause-e0a854d3",
+          "page_number": 7,
+          "text": "The COMMISSION and any st ate or federal auditor, or any duly authorized \nrepresentative of the state or federal government shall have access to any books, r ecords, and documents of \nthe CONSULTANT that are pertinent to the Agreement  for audit, exam inations, excerpts, and transactions, \nand copies thereof shall be furnished if requested.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-1dc199c7",
+          "page_number": 7,
+          "text": "Subcontracts in excess of $25,000 shall contain this provision.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause is considered low risk because it simply states a requirement for subcontracts over $25,000 to contain a specific provision. The clause does not inherently pose a risk to any party involved in the contract. It is a standard provision that helps ensure consistency and compliance in subcontract agreements."
+        },
+        {
+          "clause_id": "clause-188c2347",
+          "page_number": 7,
+          "text": "13.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-da2a15c1",
+          "page_number": 7,
+          "text": "INSPECTION OF WORK\n \n The CONSULTANT and any subconsultant shall perm it the COMMISSION, the state, and the FHWA if \nfederal participating funds are used in this contract, to  review and inspect the project activities and files at all \nreasonable times during the term of this Agreement in cluding review and inspection on a daily basis.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-1507cb2c",
+          "page_number": 7,
+          "text": "14.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-ec2693ea",
+          "page_number": 7,
+          "text": "ACKNOWLEDGMENT .",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-0b5f3460",
+          "page_number": 7,
+          "text": "CONSULTANT shall acknowledge in all repor ts and literature that the material is \nprepared for and on behalf of the COMMISSION.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is considered low risk because it clearly outlines the relationship between the Consultant and the Commission. By acknowledging that the material is prepared for and on behalf of the Commission, the Consultant is simply recognizing the party for whom they are working. This clause helps establish clarity and transparency in the working relationship. However, it is important for the Consultant to ensure that they accurately represent the Commission in their reports and literature to avoid any potential misunderstandings or misrepresentations."
+        },
+        {
+          "clause_id": "clause-000d1194",
+          "page_number": 7,
+          "text": "15.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-e6cb700c",
+          "page_number": 7,
+          "text": "WORK PRODUCTS\n.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-09e25c78",
+          "page_number": 7,
+          "text": "All material, data, information, and writte n, graphic or other work produced under \nthis Agreement is subject to the unqualified and unco nditional right of the COMMISSION to use, reproduce, \npublish, display, and make derivative use of all such work , or any part of it, free of charge and in any manner \nand for any purpose; and to authorize others to do so.",
+          "vulnerability_level": "High",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-35515099",
+          "page_number": 7,
+          "text": "If any of the work is subject  to copyright, trademark, \nservice mark, or patent, CONSULTANT now grants to the COMMISSION a perpetual, royalty-free, nonexclusive and irrevocable license to use, reproduce, publish, use in the creation of derivative works, and \ndisplay and perform the work, or any part of it, and to  grant to any third party a comparable and coextensive \nsublicense.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky for the Consultant because it grants the Commission a broad and perpetual license to use, reproduce, and distribute the Consultant's work without any further compensation. This could potentially devalue the Consultant's intellectual property rights and limit their ability to control how their work is used in the future. It is important for the Consultant to carefully review and negotiate the terms of this clause to ensure that their rights and interests are adequately protected."
+        },
+        {
+          "clause_id": "clause-16d5e16f",
+          "page_number": 7,
+          "text": "CONSULTANT shall include in any subcontract with a th ird party for work under this Agreement terms that \npreserve the rights, interests, and obligations created  by this Section, and that identify the COMMISSION as \na third-party beneficiary of those provisions.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-31e76379",
+          "page_number": 7,
+          "text": "The CONSULTANT shall not utilize the work produced under this Agreement for any profit-making venture, or sell or grant rights to a third party for that purpose.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is considered low risk because it clearly outlines the restriction on the Consultant from using the work for profit-making purposes or selling rights to a third party. By prohibiting the Consultant from exploiting the work for financial gain, the clause helps protect the interests of the Commission. This restriction is common in consulting agreements to ensure that the work produced is used solely for the intended purpose and not for personal gain."
+        },
+        {
+          "clause_id": "clause-1931e293",
+          "page_number": 7,
+          "text": "A.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-ca9dd777",
+          "page_number": 7,
+          "text": "Upon completion of all work under this contract, ow nership and title to all custom letters, reports, \ndocuments, plans, specifications, and estimates and ot her products produced as part of this Agreement \n(herein \"deliverables\") will automatically be vest ed in the COMMISSION; and no further agreement will \nbe necessary to transfer ownership to the CO MMISSION.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-fa3e6bc6",
+          "page_number": 7,
+          "text": "The CONSULTANT shall furnish the \nCOMMISSION all necessary copies of data needed to  complete the review and approval process.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-4961e44e",
+          "page_number": 7,
+          "text": "Copies \nmay be made for CONSULTANT's records but sh all not be furnished to others without the \nCOMMISSION's prior written authoriza tion.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-902d382c",
+          "page_number": 7,
+          "text": "Such deliverables shall be deemed works made for hire and \nall rights in copyright therein shall be retained by COMMISSION.",
+          "vulnerability_level": "High",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky for the Consultant because it states that any deliverables created under the contract will be considered works made for hire, meaning that the Consultant will not own the copyright to their work. Instead, all rights in the copyright will be retained by the Commission. This can be detrimental to the Consultant as they may not have control over their own work or be able to use it in the future without permission from the Commission. It is important for the Consultant to negotiate for ownership or licensing rights to their work to protect their interests."
+        },
+        {
+          "clause_id": "clause-a3598006",
+          "page_number": 7,
+          "text": "All information derived from these \ndeliverables is deemed confidential and may not be di sclosed to any other party without the express prior \nwritten consent of COMMISSION.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-b8789c9b",
+          "page_number": 7,
+          "text": "No information obtained during audit work performed under this \nAgreement may be used by CONSULTANT for an y purpose (internal or external), nor may the \ninformation be discussed with others without the prior written consent of COMMISSION.",
+          "vulnerability_level": "High",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky for the Consultant because it severely restricts their ability to use or share any information obtained during the audit work without prior written consent from the Commission. This limitation could hinder the Consultant's ability to leverage their findings for internal purposes or to discuss the information with relevant stakeholders. The Consultant may face legal consequences if they breach this clause by using or sharing the information without permission. It is important for the Consultant to carefully review and negotiate this clause to ensure they have the necessary flexibility to utilize the audit findings appropriately."
+        },
+        {
+          "clause_id": "clause-f082b70a",
+          "page_number": 7,
+          "text": "B.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-bfc543c4",
+          "page_number": 7,
+          "text": "Any subcontract in excess of $25,000 entered into as a result of this contract, shall contain all of the \nprovisions of this Section.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-c8cda7b3",
+          "page_number": 8,
+          "text": "Page 8 16.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-da6b5ca9",
+          "page_number": 8,
+          "text": "SAFETY  \nA.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-07256189",
+          "page_number": 8,
+          "text": "The CONSULTANT shall comply with OSHA regula tions applicable to CONSULTANT regarding \nnecessary safety equipment or procedures.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-412619b9",
+          "page_number": 8,
+          "text": "The CONS ULTANT shall comply with safety instructions \nissued by the COMMISSION Safety Officer and other COMMISSION representatives.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is considered low risk because it clearly outlines the Consultant's obligation to comply with safety instructions issued by the Commission's Safety Officer and representatives. By specifying this requirement, it helps ensure that the Consultant is aware of and follows safety protocols set by the Commission, reducing the risk of accidents or liabilities. However, it is important for the Consultant to ensure that the safety instructions provided are reasonable and feasible to comply with."
+        },
+        {
+          "clause_id": "clause-0b615cd9",
+          "page_number": 8,
+          "text": "CONSULTANT \npersonnel shall wear hard hats and safety vests at all times while working on the Santa Cruz Branch Rail \nLine.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-43b4ad70",
+          "page_number": 8,
+          "text": "B.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-6987eeef",
+          "page_number": 8,
+          "text": "Areas within the limits of the project are open to public and private traffic.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause poses a medium level of vulnerability as it opens up the project areas to both public and private traffic. The risk is neutral as it affects both parties equally. The clause is risky because allowing public and private traffic within the project limits can lead to safety concerns, potential accidents, property damage, and disruptions to the project activities. It may also increase the liability exposure for both parties in case of any incidents or accidents occurring within the project area. To mitigate this risk, it is advisable to establish clear guidelines, restrictions, and safety measures for managing traffic within the project limits."
+        },
+        {
+          "clause_id": "clause-27ef76df",
+          "page_number": 8,
+          "text": "The CONSULTANT shall \ncomply with all of the requirements set forth in Divi sions 11, 12, 13, 14, and 15 of the Vehicle Code.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-09004293",
+          "page_number": 8,
+          "text": "The \nCONSULTANT shall take all reasonably necessary precau tions for safe operation of its vehicles and the \nprotection of the traveling public from injury and damage from such vehicles.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky for the Consultant as it imposes a broad obligation on them to take \"all reasonably necessary precautions\" for the safe operation of their vehicles and the protection of the traveling public. This could potentially expose the Consultant to a high level of liability if an accident were to occur, as the language is vague and could be interpreted in various ways. It is important for the Consultant to clearly define what constitutes \"reasonably necessary precautions\" and ensure that they have appropriate insurance coverage to mitigate any potential risks."
+        },
+        {
+          "clause_id": "clause-349c3605",
+          "page_number": 8,
+          "text": "C. Any subcontract entered into as a result of this contract , shall contain all of the provisions of this Section.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky because it places the burden on the consultant to ensure that any subcontract they enter into includes all the provisions of the main contract. This could be risky for the consultant as they may not have full control over the subcontractor's actions or ability to comply with all provisions. If the subcontractor fails to adhere to the provisions, the consultant could be held liable for any breaches. It would be safer for the consultant if the main contract specified which provisions are mandatory for subcontractors to follow, rather than requiring all provisions to be included."
+        },
+        {
+          "clause_id": "clause-467890be",
+          "page_number": 8,
+          "text": "17.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-96ebd8ba",
+          "page_number": 8,
+          "text": "MODIFICATION OF AGREEMENT\n.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-2705a39c",
+          "page_number": 8,
+          "text": "A.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-8c5fbe3f",
+          "page_number": 8,
+          "text": "This Agreement may be amended or modified only  by mutual written agreement of the parties.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause is considered low risk because it clearly states that any amendments or modifications to the agreement can only be made with the mutual written agreement of both parties. This provides a level of protection for all parties involved as it ensures that any changes to the agreement must be agreed upon by both sides in writing. This clause helps to prevent one party from unilaterally making changes to the agreement without the consent of the other party, reducing the risk of disputes or misunderstandings."
+        },
+        {
+          "clause_id": "clause-f7f7d36a",
+          "page_number": 8,
+          "text": "B.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-b5151038",
+          "page_number": 8,
+          "text": "The CONSULTANT shall only commence work cove red by an amendment after the amendment is \nexecuted and notification to proceed has been provided by the COMMISSION\u2019s Contract Manager.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-bbf33401",
+          "page_number": 8,
+          "text": "C. There shall be no change in the CONSULTANT\u2019s Proj ect Manager or members of the project team, as \nlisted in the approved Fee Schedule, which is a part of this Agreement without prior written approval by \nthe COMMISSION\u2019s Contract Manager.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-d428861e",
+          "page_number": 8,
+          "text": "D. No oral understanding or agreement not incorporat ed herein shall be binding on the parties.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-4483ae39",
+          "page_number": 8,
+          "text": "18.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-2dcfecca",
+          "page_number": 8,
+          "text": "DISPUTES .",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause simply states \"DISPUTES\" without providing any further detail or guidance on how disputes will be resolved. This lack of specificity could lead to uncertainty and potential disagreements between the parties in the future. It is risky because it leaves room for interpretation and potential conflicts to arise without a clear process for resolving them. To mitigate this risk, it is advisable to include a provision outlining the dispute resolution mechanism, such as mediation, arbitration, or litigation, to provide clarity and guidance in case disputes do arise."
+        },
+        {
+          "clause_id": "clause-d03875cd",
+          "page_number": 8,
+          "text": "This Agreement shall be construed under the la ws of the State of California.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause is considered low risk because it simply states that the agreement will be interpreted and enforced according to the laws of the State of California. This is a common and standard provision in contracts to provide clarity on which jurisdiction's laws will govern any disputes that may arise. It does not pose a significant risk to either party involved in the agreement."
+        },
+        {
+          "clause_id": "clause-74d8e223",
+          "page_number": 8,
+          "text": "Pending final \nresolution of a dispute hereunder, CONSULTANT shall proceed diligently with the performance of this \nAgreement and shall comply with COMMISSION\u2019s instructions.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky for the Consultant because it requires them to proceed diligently with the performance of the Agreement and comply with the Commission's instructions even if there is a dispute pending resolution. This could potentially put the Consultant in a difficult position if they are required to continue working under the Agreement while a dispute is ongoing, which could impact their rights and obligations. It may be safer to include provisions for how disputes are to be handled and whether work should continue during the dispute resolution process to mitigate this risk."
+        },
+        {
+          "clause_id": "clause-9076e73d",
+          "page_number": 8,
+          "text": "A.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-4e03bece",
+          "page_number": 8,
+          "text": "Any dispute, other than audit, concerning a questi on of fact arising under this Agreement that is not \ndisposed of by agreement shall be decided by a committee consisting of the COMMISSION\u2019s Contract \nManager and Executive Director, who shall consider  written or verbal information submitted by the \nCONSULTANT.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-025c13fc",
+          "page_number": 8,
+          "text": "B.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-c5fa5356",
+          "page_number": 8,
+          "text": "Not later than 30 days after completion of all deliver ables necessary to complete the plans, specifications \nand estimate, the CONSULTANT may request re view by the COMMISSION GOVERNING BOARD of \nunresolved claims or disputes, other than audit.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause poses a medium level of vulnerability for the Consultant. The risk lies in the potential for delays in resolving claims or disputes. The Consultant may face challenges if the Commission Governing Board does not promptly review and address the unresolved issues within the specified timeframe of 30 days. This could lead to prolonged disputes, impacting the Consultant's ability to receive timely resolution and potentially affecting their payment or reputation. It is important for the Consultant to ensure clear communication and follow-up mechanisms to mitigate the risks associated with this clause."
+        },
+        {
+          "clause_id": "clause-be4c7e6b",
+          "page_number": 8,
+          "text": "Th e request for review must be submitted in writing.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause is considered low risk because it clearly outlines the requirement for the request for review to be submitted in writing. This provides a clear and documented record of the request, reducing the likelihood of misunderstandings or disputes. Additionally, requiring written requests can help ensure that all parties have a clear understanding of the terms and conditions of the review process. Overall, this clause is considered safe as it promotes clarity and accountability in the contract."
+        },
+        {
+          "clause_id": "clause-85714c55",
+          "page_number": 8,
+          "text": "C. Neither the pendency of a dispute, nor its consid eration by the committee will excuse the CONSULTANT \nfrom full and timely performance in accordan ce with the terms of this contract.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky for the Consultant because it places a high standard on them to perform their obligations under the contract fully and on time, regardless of any disputes or considerations by a committee. This could potentially expose the Consultant to liability if they are unable to meet these strict performance requirements due to circumstances beyond their control, such as a dispute impacting their ability to fulfill the contract. It may be seen as unfair to hold the Consultant to such a high standard in situations where external factors are hindering their performance."
+        },
+        {
+          "clause_id": "clause-d7e397a9",
+          "page_number": 8,
+          "text": "19.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-85d2ecaf",
+          "page_number": 8,
+          "text": "AUDIT REVIEW PROCEDURES  \nA.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-8630982e",
+          "page_number": 8,
+          "text": "Any dispute concerning a question of fact arising under an interim or post-completion audit of this \nAgreement that is not disposed of by agreement,  shall be reviewed by the COMMISSION\u2019S Contract \nManager.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-55a538b1",
+          "page_number": 8,
+          "text": "B.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-77edb5af",
+          "page_number": 8,
+          "text": "Not later than 30 days after issuance of the final audit report, the CONSULTANT may request a review \nby the COMMISSION\u2019S Executive Director of unresolved  audit issues.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is relatively safe as it provides the Consultant with the opportunity to request a review of unresolved audit issues by the Commission's Executive Director within a specified timeframe. This clause helps ensure transparency and accountability in the audit process by allowing the Consultant to seek clarification or resolution on any outstanding matters. The risk level is low because it provides a clear process for addressing audit issues and does not appear to unfairly disadvantage either party."
+        },
+        {
+          "clause_id": "clause-43b9a732",
+          "page_number": 8,
+          "text": "The request for review will be \nsubmitted in writing.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause is considered low risk because it clearly outlines the requirement for the request for review to be submitted in writing. This provides a clear and documented record of the request, reducing the likelihood of misunderstandings or disputes. All parties involved are at a neutral risk level as long as the requirement is followed."
+        },
+        {
+          "clause_id": "clause-79cca3ca",
+          "page_number": 8,
+          "text": "C. Neither the pendency of a dispute nor its consideration by the COMMISSION will excuse the \nCONSULTANT from full and timely performance, in accordance with the terms of this contract.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky for the Consultant because it places a strict obligation on them to continue performing their duties under the contract even if there is a dispute pending or being considered by the Commission. This means that the Consultant may be required to fulfill their obligations under the contract regardless of any ongoing legal issues or disagreements. This could potentially expose the Consultant to additional risks and liabilities if they are unable to perform due to the dispute. It is important for the Consultant to carefully review this clause and consider negotiating for more flexibility or protections in case of disputes."
+        },
+        {
+          "clause_id": "clause-8b101a07",
+          "page_number": 8,
+          "text": "20.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-ad0fe73f",
+          "page_number": 8,
+          "text": "SUBCONTRACTING  \nA.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-2e1eb91b",
+          "page_number": 8,
+          "text": "The CONSULTANT shall perform the work contempl ated with resources available within its own \norganization; and no portion of the work pertinent to this Agreement shall be subcontracted without prior \nwritten authorization by the COMMISSION\u2019S Contr act Manager, except that, which is expressly \nidentified in the approved Fee Schedule.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-7282d372",
+          "page_number": 9,
+          "text": "Page 9 B.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-a4a2c6de",
+          "page_number": 9,
+          "text": "Any subcontract in excess of $25,000 entered into as a result of this contract, shall contain all the \nprovisions required by this Agreement to be applicable to those subconsultants.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-4f671557",
+          "page_number": 9,
+          "text": "C. No substitution of subconsultants shall be va lid until approved in writing by the COMMISSION\u2019s \nContract Manager.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-4c4500cf",
+          "page_number": 9,
+          "text": "21.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-5be0e287",
+          "page_number": 9,
+          "text": "NONASSIGNMENT\n.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-ffcd2368",
+          "page_number": 9,
+          "text": "The CONSULTANT shall not assign the Agreement without the prior written consent \nof the COMMISSION.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is considered medium risk because it restricts the Consultant from assigning the Agreement without obtaining prior written consent from the Commission. The risk lies with the Consultant as they may face limitations in transferring their rights or obligations under the Agreement without the Commission's approval. This clause protects the Commission's interests by ensuring they have control over who the Consultant can assign the Agreement to. However, the Consultant may find it restrictive if they need to transfer their rights or obligations for legitimate reasons and are unable to do so without the Commission's consent."
+        },
+        {
+          "clause_id": "clause-41d3ce00",
+          "page_number": 9,
+          "text": "22.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-ff400327",
+          "page_number": 9,
+          "text": "REBATES, KICKBACKS OR OTHER UNLAWFUL CONSIDERATION\n.",
+          "vulnerability_level": "High",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause is risky because it prohibits the parties from engaging in any rebates, kickbacks, or other unlawful considerations. By including this clause, the contract is aiming to prevent any illegal activities or unethical behavior that could harm the parties involved. However, the risk lies in the potential ambiguity of what constitutes \"unlawful consideration.\" This could lead to disputes or legal challenges if one party believes the other has engaged in such activities. It is important for both parties to have a clear understanding of what is considered unlawful under this clause to avoid potential conflicts."
+        },
+        {
+          "clause_id": "clause-9b297338",
+          "page_number": 9,
+          "text": "The CONSULTANT \nwarrants that this Agreement was not obtained or secured through rebates kickbacks or other unlawful \nconsideration, either promi sed or paid to any COMMISSION  employee.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky because it places the burden on the Consultant to warrant that the Agreement was not obtained through unlawful means such as rebates, kickbacks, or other unlawful considerations promised or paid to any Commission employee. This clause exposes the Consultant to potential legal consequences if it is later discovered that the Agreement was indeed obtained through such unlawful means. It is important for the Consultant to ensure that all dealings related to the Agreement are conducted in a lawful and ethical manner to mitigate the risk associated with this clause."
+        },
+        {
+          "clause_id": "clause-a6b8f5db",
+          "page_number": 9,
+          "text": "For breach or violation of this \nwarranty, COMMISSION  shall have the right in its discretion to te rminate the Agreement without liability; to \npay only for the value of the work actually performed; or to deduct from the contract price; or otherwise \nrecover the full amount of such rebate, ki ckback or other unlawful consideration.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-c25230e9",
+          "page_number": 9,
+          "text": "23.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-3a9f9fe1",
+          "page_number": 9,
+          "text": "NOTIFICATION .",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-e06827cf",
+          "page_number": 9,
+          "text": "All notices hereunder and communications regard ing interpretation of the terms of this \nAgreement and changes thereto, shall be effected by th e mailing thereof by registered or certified mail, return \nreceipt requested, postage prepaid, and addressed as follows:  \n CONSULTANT: \n  __________ (CONSULTANT) _______________ \n  __________ (NAME) ________, Project Manager \n  __________ (ADDRESS) ____________________ \n    COMMISSION:   Santa Cruz County Regional Transportation Commission (SCCRTC)  \n  Luis Mendez, Contract Manager \n  1523 Pacific Ave, Santa Cruz, CA 95060  \n24.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-10c60920",
+          "page_number": 9,
+          "text": "COMPLETE AGREEMENT\n \nA.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "section": "AGREEMENT :",
+      "clauses": [
+        {
+          "clause_id": "clause-f92befaf",
+          "page_number": 9,
+          "text": "Both of these parties for and in consideration \nof the payments to made, conditions mentioned, an d work to be performed; each agree to diligently \nperform in accordance with the terms and conditions of this Agreement as evid enced by the signatures \nbelow.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-621f8e90",
+          "page_number": 9,
+          "text": "B.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "section": "COMMISSION DESIGNEE\n:",
+      "clauses": [
+        {
+          "clause_id": "clause-66a4d7ff",
+          "page_number": 9,
+          "text": "C. COMPLETE AGREEMENT, INCLUDING ATTACHMENTS .",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause is safe because it simply states that the agreement, including any attachments, constitutes the complete agreement between the parties. This helps to avoid any potential disputes or misunderstandings regarding additional terms or agreements outside of what is explicitly stated in the contract. It provides clarity and certainty to both parties involved in the agreement."
+        },
+        {
+          "clause_id": "clause-105ba4b4",
+          "page_number": 9,
+          "text": "This Agreement includes all exhibits, \nattachments, and documents incorporated herein a nd made applicable by reference, constitutes the \ncomplete and exclusive statement of the terms and conditions of the Agreement between COMMISSION \nand CONSULTANT, and supersedes all prior represen tations, understandings and communications.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-fa73db72",
+          "page_number": 9,
+          "text": "The \ninvalidity in whole or in part of any term or conditi on of this Agreement shall not affect the validity of \nother terms or conditions.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause is considered low risk because it contains a severability provision. The clause states that if any part of the agreement is found to be invalid, it will not affect the validity of the other parts of the agreement. This provision helps to protect the overall enforceability of the contract in case one specific term or condition is deemed unenforceable. It is a common and standard provision in contracts to ensure that the agreement remains valid and enforceable to the extent possible even if certain provisions are found to be invalid."
+        },
+        {
+          "clause_id": "clause-8d3527cf",
+          "page_number": 9,
+          "text": "The COMMISSION\u2019s waiver of CONSULTANT's performance of any term(s) \nor condition(s) of this Agreement shall not be cons trued as a waiver for any future performance of such \nterm(s) or conditions(s \n \nD. Attachments are: \n\uf0b7 Exhibit A: Scope of Services",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-188e0bc8",
+          "page_number": 10,
+          "text": "Page 10 \uf0b7 Exhibit B: Fee Schedule  \n \nEach of the undersigned represents and warrants that he or she is duly auth orized to execute and deliver this \nAgreement and that such execution is binding upon the en tity for which he or she is executing this document.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-2625bd46",
+          "page_number": 10,
+          "text": "IN WITNESS WHEREOF, the parties hereto have caused this Agreement No.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-ad4c975f",
+          "page_number": 10,
+          "text": "_______ to be executed on the date \nfirst written above.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": "This clause is low risk and neutral because it simply states that the contract is to be executed on a specific date. There is no inherent risk associated with this clause as it is a standard provision in contracts to specify the effective date of the agreement."
+        },
+        {
+          "clause_id": "clause-d6b60843",
+          "page_number": 10,
+          "text": "1.",
+          "vulnerability_level": null,
+          "party_at_risk": null,
+          "explanation": null
+        },
+        {
+          "clause_id": "clause-7dac6bc7",
+          "page_number": 10,
+          "text": "CONSULTANT     2.",
+          "vulnerability_level": "Medium",
+          "party_at_risk": "Consultant",
+          "explanation": "This clause is risky because it lacks specificity and context. Without further information, it is unclear what \"CONSULTANT 2\" refers to or entails. This ambiguity could lead to misunderstandings or disputes between the parties involved. To mitigate this risk, it is advisable to provide clear definitions and details regarding the roles and responsibilities of \"CONSULTANT 2\" in the contract."
+        },
+        {
+          "clause_id": "clause-7bd54be9",
+          "page_number": 10,
+          "text": "SANTA CRUZ COUNTY REGIONAL \n            TRANSPORTATION COMMISSION        \n   \nBy: _______________________________   By: _____________________________                                                            SIGNED                    SIGNED         _________________________________        ______________________________        PRINTED                    PRINTED \n \nCompany Name:  _____________ Address:             ______________ Telephone:(         ) __________  \nFax: (         )  __________ \nEmail:  ___________ _____________ \n \n3.",
+          "vulnerability_level": "Low",
+          "party_at_risk": "Neutral",
+          "explanation": null
+        }
+      ]
+    },
+    {
+      "section": "APPROVED AS TO INSURANCE:",
+      "clauses": []
+    }
+  ],
+  "metadata": {
+    "total_clauses": 220,
+    "has_sections": true
+  }
+}
